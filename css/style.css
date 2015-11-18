@@ -1,0 +1,14 @@
+body {
+	color: #D0233A;
+	background-image: url("../images/grid.jpg");
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: Arial
+	font-size: 48px;
+}
+
+a {
+	color: #black;
+}
